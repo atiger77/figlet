@@ -6,10 +6,10 @@ b.编译安装 cd figlet && make figlet && make install
 
 ### 生成字体(不知道为什么图片就是没出来)
 字体选项
-![example_01](https://github.com/atiger77/figlet/blob/master/example_pic/example_02.png)
+![example_02](figlet/example_pic/example_02.png)
 
 生成效果
-![example_02](https://github.com/atiger77/figlet/blob/master/example_pic/example_02.png)
+![example_01](figlet/example_pic/example_01.png)
 
 
 About FIGlet (Frank, Ian & Glenn's Letters) release 2.2.5, 31 May 2012

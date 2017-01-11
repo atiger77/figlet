@@ -1,3 +1,17 @@
+###Figlet，以前看到过这种效果一直没找到是什么软件，现在终于找到了^ ^
+### 安装过程
+a.获取代码 git clone git@github.com:atiger77/figlet.git
+
+b.编译安装 cd figlet && make figlet && make install 
+
+### 生成字体
+字体选项
+![example_01](./example_pic/example_01.jpg)
+
+生成效果
+![example_02](./example_pic/example_02.jpg)
+
+
 About FIGlet (Frank, Ian & Glenn's Letters) release 2.2.5, 31 May 2012
 --------------------------------------------------------------------------
 FIGlet is a program that creates large characters out of ordinary

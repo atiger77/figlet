@@ -4,7 +4,7 @@ a.获取代码 git clone git@github.com:atiger77/figlet.git
 
 b.编译安装 cd figlet && make figlet && make install 
 
-### 生成字体(不知道为什么图片就是没出来)
+### 生成字体
 字体选项
 ![example_02](example_pic/example_02.png)
 
@@ -16,11 +16,6 @@ About FIGlet (Frank, Ian & Glenn's Letters) release 2.2.5, 31 May 2012
 --------------------------------------------------------------------------
 FIGlet is a program that creates large characters out of ordinary
 screen characters
- _ _ _          _   _     _       
-| (_) | _____  | |_| |__ (_)___   
-| | | |/ / _ \ | __| '_ \| / __|  
-| | |   <  __/ | |_| | | | \__ \_ 
-|_|_|_|\_\___|  \__|_| |_|_|___(_)
                                   
 (This is meant to be viewed in a monospaced font.)  FIGlet can create
 characters in many different styles and can kern and "smush" these
@@ -144,12 +139,6 @@ At the shell prompt, type "figlet".  Then type, say, "Hello, world!"
 and press return.  "Hello, world!" in nice, big, designer characters
 should appear on your screen.  If you chose standard.flf to be the
 default font, you should see
- _   _      _ _                             _     _ _ 
-| | | | ___| | | ___    __      _____  _ __| | __| | |
-| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
-|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
-|_| |_|\___|_|_|\___( )   \_/\_/ \___/|_|  |_|\__,_(_)
-                    |/                                
 Then type something else, or type an EOF (typically control-D) to quit
 FIGlet.
 
@@ -159,11 +148,6 @@ have taken you hours to put that together!")
 
 To use other fonts, use the "-f" command line option.  For example, if
 you had said "figlet -f smslant" above, you would have seen
-   __ __    ____                         __   ____
-  / // /__ / / /__      _    _____  ____/ /__/ / /
- / _  / -_) / / _ \_   | |/|/ / _ \/ __/ / _  /_/ 
-/_//_/\__/_/_/\___( )  |__,__/\___/_/ /_/\_,_(_)  
-                  |/                              
 
 Here are some other useful command line options:
 

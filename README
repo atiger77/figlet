@@ -4,10 +4,9 @@ a.获取代码 git clone git@github.com:atiger77/figlet.git
 
 b.编译安装 cd figlet && make figlet && make install 
 
-### 生成字体
+### 生成字体(不知道为什么图片就是没出来)
 字体选项
 ![example_01](example_pic/example_02.png)
-![](example_pic/example_02.png)
 
 生成效果
 ![example_02](example_pic/example_01.png)
